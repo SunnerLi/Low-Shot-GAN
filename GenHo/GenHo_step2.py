@@ -28,7 +28,7 @@ from collections import OrderedDict
     *********************************************************************************************
     According to the paper, the GenHo approach contains 5 steps. 
     This script will train the 2nd step for GenHo. 
-    @Author: Hsaun-Kai Kao
+    @Author: Hsuan-Kai Kao
 """
 
 warnings.filterwarnings('ignore')
