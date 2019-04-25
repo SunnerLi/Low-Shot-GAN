@@ -25,7 +25,7 @@ If you utilize our paper idea to extend in your research, please cite our paper:
 ```
 @inproceedings{kao2018few,
   title={Learning Few-Shot Generative Networks for Cross-Domain Data},
-  author={Kao, Shuian-Kai and Lee, Cheng-Che and Chen, Hung-Yu and Cheng, Chia-Ming and Chiu, Wei-Chen},
+  author={Kao, Hsuan-Kai and Lee, Cheng-Che and Chen, Hung-Yu and Cheng, Chia-Ming and Chiu, Wei-Chen},
   booktitle={ICCV},
   year={2019}
 }
