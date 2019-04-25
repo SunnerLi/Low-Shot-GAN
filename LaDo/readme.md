@@ -35,4 +35,4 @@ $ python3 LaDo_random_sample.py --model_path LaDo_result/models_2nd/00100.pth
 
 Paper
 ---
-* Shuian-Kai Kao, Cheng-Che Lee, Hung-Yu Chen, Chia-Ming Cheng, and Wei-Chen Chiu, "Learning Few-Shot Generative Networks for Cross-Domain Data," ICCV 2019. 
+* Hsuan-Kai Kao, Cheng-Che Lee, Hung-Yu Chen, Chia-Ming Cheng, and Wei-Chen Chiu, "Learning Few-Shot Generative Networks for Cross-Domain Data," ICCV 2019. 
