@@ -24,24 +24,24 @@ $ python3 GenHo_step2.py --src_path StyleShoes \
 
 # 3rd step
 $ python3 GenHo_step3.py --tar_path RealShoes_100 \
---step1_path 'Save_model/Step1/step1_100.pth'
---step2_path 'Save_model/Step2/step2_100.pth'
+--step1_path Save_model/Step1/step1_100.pth
+--step2_path Save_model/Step2/step2_100.pth
 
 # 4th step
 $ python3 GenHo_step4.py --src_pair StyleShoes_100 \
 --tar_pair RealShoes_100 \
---step1_path 'Save_model/Step1/step1_100.pth'
---step2_path 'Save_model/Step2/step2_100.pth'
+--step1_path Save_model/Step1/step1_100.pth
+--step2_path Save_model/Step2/step2_100.pth
 
 # 5th step
 $ python3 GenHo_step5.py --step1_path 'Save_model/Step1/step1_100.pth'
---step3_path 'Save_model/Step3/step3_100.pth'
---prior_path 'Save_model/Step4/10000z.npz'
+--step3_path Save_model/Step3/step3_100.pth
+--prior_path Save_model/Step4/10000z.npz
 ```
 
 ```
 Inference
-$ python3 GenHo_inference.py --step5_path 'Save_model/Step5/step5_100.pth'
+$ python3 GenHo_inference.py --step5_path Save_model/Step5/step5_100.pth
 ```
 
 Paper
