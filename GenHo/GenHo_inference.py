@@ -26,7 +26,7 @@ from collections import OrderedDict
     * The main code for the paper : Learning Few-Shot Generative Networks for Cross-Domain Data *
     *********************************************************************************************
     This script does the inference after step5 finished!
-    @Author: Hsaun-Kai Kao
+    @Author: Hsuan-Kai Kao
 """
 
 warnings.filterwarnings('ignore')
