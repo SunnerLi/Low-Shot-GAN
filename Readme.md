@@ -8,7 +8,7 @@
 </p> 
     
 > **Learning Few-Shot Generative Networks for Cross-Domain Data** <br/>
-> Shuian-Kai Kao (NCTU), Cheng-Che Lee (NCTU), Hung-Yu Chen (NCTU), Chia-Ming Cheng (MediaTek), and Wei-Chen Chiu (NCTU) <br/>
+> Hsuan-Kai Kao (NCTU), Cheng-Che Lee (NCTU), Hung-Yu Chen (NCTU), Chia-Ming Cheng (MediaTek), and Wei-Chen Chiu (NCTU) <br/>
 >
 > **Abstract**  *In this paper we tackle a novel problem of learning generators for cross-domain data under a specific scenario of few-shot learning. Basically, given a source domain with sufficient amount of training data, we aim to
 transfer the knowledge of its generative process to another target domain which not only has few data samples but also the domain shift with respect to the source domain. This problem is of great potential in practical use as the large data consumption for learning targetdomain generator can be alleviated. Built upon a crossdomain dataset that (1) each of the few shots in the target domain has its correspondence in the source and (2) these two domains share the similar content information but different appearance, two approaches are proposed: a Latent-Disentanglement-Orientated model (LaDo) and a
