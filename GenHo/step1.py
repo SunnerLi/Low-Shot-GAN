@@ -27,7 +27,7 @@ from utils import *
     *********************************************************************************************
     According to the paper, the GenHo approach contains 5 steps. 
     This script will train the 1st step for GenHo. 
-    @Author: Hsaun-Kai Kao
+    @Author: Hsuan-Kai Kao
 """
 
 
