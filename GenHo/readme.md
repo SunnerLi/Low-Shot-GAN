@@ -1,5 +1,5 @@
 ## Learning Few-Shot Generative Networks for Cross-Domain Data
-### Official implementation of the ICCV 2019 paper
+### Official implementation of the ICPR 2020 paper
 ![Github](https://img.shields.io/badge/PyTorch-v0.4.1-red.svg?style=for-the-badge&logo=data:image/png)
 ![Github](https://img.shields.io/badge/python-3.5-green.svg?style=for-the-badge&logo=python)
 
@@ -46,4 +46,4 @@ $ python3 GenHo_inference.py --step5_path Save_model/Step5/step5_100.pth
 
 Paper
 ---
-* Hsuan-Kai Kao, Cheng-Che Lee, Hung-Yu Chen, Chia-Ming Cheng, and Wei-Chen Chiu, "Learning Few-Shot Generative Networks for Cross-Domain Data," ICCV 2019. 
+* Hsuan-Kai Kao, Cheng-Che Lee, and Wei-Chen Chiu, "Learning Low-Shot Generative Networks for Cross-Domain Data," ICPR 2020. 
