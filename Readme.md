@@ -21,10 +21,10 @@ Citation
 ---
 If you utilize our paper idea to extend in your research, please cite our paper:
 ```
-@inproceedings{???,
-  title={Learning Low-Shot Generative Networks for Cross-Domain Data},
-  author={Kao, Hsuan-Kai and Lee, Cheng-Che and Chiu, Wei-Chen},
-  booktitle={ICPR},
-  year={2020}
+@inproceedings{kao20icpr,
+ title = {Learning Low-Shot Generative Networks for Cross-Domain Data},
+ author = {Hsuan-Kai Kao and Cheng-Che Lee and Wei-Chen Chiu},
+ booktitle = {International Conference on Pattern Recognition (ICPR)},
+ year = {2020}
 }
 ```
